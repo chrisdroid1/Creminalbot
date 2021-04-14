@@ -206,7 +206,7 @@ I'm built in python3, using the \
 python-telegram-bot library, and am fully opensource - you can find what makes me tick\
 [here](https://github.com/peaktogoo/HarukaAya))!
 
-Feel free to submit pull requests on github, or to contact my support group, @EchelonTeam, with any bugs, questions \
+Feel free to submit pull requests on github, or to contact my support group, @Ultim_ate, with any bugs, questions \
 or feature requests you might have :)
 
 If you enjoying using me and/or would like to help me survive in the wild, hit /donate to help fund/upgrade my VPS!
