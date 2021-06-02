@@ -1,6 +1,6 @@
 
 {
-  "name": "Ultimate Bot",
+  "name": "Creminal Bot",
   "description": "Modular Telegram group management bot!",
   "keywords": [
     "telegram",
@@ -9,7 +9,7 @@
     "manager",
     "3"
   ],
-  "repository": "hhttps://github.com/chrisdroid1/Ultimate-Bot",
+  "repository": "https://github.com/chrisdroid1/Creminalbot",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables",
